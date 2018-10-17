@@ -1,4 +1,4 @@
-# React-truffle-metamask
+# React-truffle
 
 This project is design to connect to Ethereum blockchain and interact with MetaMask to send transaction on smart contract.  
 
@@ -24,7 +24,7 @@ This project is design to connect to Ethereum blockchain and interact with MetaM
 #### Clone repo
 
 ```
-git clone https://github.com/PhyrexTsai/react-truffle-metamask
+git clone https://github.com/PortalNetwork/react-truffle.git
 cd react-truffle-metamask
 ```
 
