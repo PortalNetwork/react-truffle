@@ -1,6 +1,6 @@
 # React-truffle
 
-This project is design to connect to Ethereum blockchain and interact with MetaMask to send transaction on smart contract.  
+This project is design to connect to blockchain and interact with MetaMask to send transaction on smart contract.  
 
 ## 💡[Document](./DOCUMENT.md)
 
