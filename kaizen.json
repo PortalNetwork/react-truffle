@@ -4,9 +4,9 @@
     "issued": "PortalNetwork",
     "ethereum": {
       "build_output_path": "./build/smart_contracts",
-      "provider": "https://ropsten.infura.io/NEefAs8cNxYfiJsYCQjc",
+      "provider": "https://ropsten.infura.io/<Your Infura API Key>",
       "network_id": 3,
-      "mnemonic": "concert load couple harbor equip island argue ramp clarify fence smart topic",
+      "mnemonic": "",
       "develop_port": 8545
     }
 }
