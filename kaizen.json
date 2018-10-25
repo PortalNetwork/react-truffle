@@ -3,7 +3,7 @@
     "type": "React",
     "issued": "PortalNetwork",
     "ethereum": {
-      "build_output_path": "../build/smart_contracts",
+      "build_output_path": "./build/smart_contracts",
       "provider": "https://ropsten.infura.io/NEefAs8cNxYfiJsYCQjc",
       "network_id": 3,
       "mnemonic": "concert load couple harbor equip island argue ramp clarify fence smart topic",
