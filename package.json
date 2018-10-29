@@ -65,7 +65,7 @@
     "sw-precache-webpack-plugin": "0.11.4",
     "truffle": "^4.1.14",
     "truffle-contract": "^1.1.8",
-    "truffle-hdwallet-provider": "0.0.3",
+    "truffle-privatekey-provider": "^0.1.0",
     "url-loader": "0.6.2",
     "web3": "^0.20.2",
     "webpack": "3.8.1",
