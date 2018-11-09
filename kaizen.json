@@ -6,7 +6,7 @@
       "build_output_path": "./build/smart_contracts",
       "provider": "https://ropsten.infura.io/<Your Infura API Key>",
       "network_id": 3,
-      "mnemonic": "",
+      "private_key": "",
       "develop_port": 8545
     }
 }

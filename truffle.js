@@ -1,6 +1,6 @@
 const path = require('path');
 const config = require('./kaizen.json');
-var HDWalletProvider = require('truffle-hdwallet-provider');
+const PrivateKeyProvider = require("truffle-privatekey-provider");
 
 module.exports = {
   contracts_build_directory: path.resolve(config.ethereum.build_output_path),
@@ -11,7 +11,7 @@ module.exports = {
       network_id: '*'
     },
     deployment: {
-      provider: new HDWalletProvider(config.ethereum.mnemonic, config.ethereum.provider),
+      provider: new PrivateKeyProvider(config.ethereum.private_key, config.ethereum.provider),
       network_id: config.ethereum.network_id
     }
   }
