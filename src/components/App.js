@@ -26,8 +26,6 @@ class App extends Component {
         <Top/>
         <Warning {...this.props}/>
         <MetaMask {...this.props} {...this.state} setWeb3={this.setWeb3}/>
-        <Health {...this.props} />
-        <Contract {...this.props} {...this.state} />
         <SendTransactoin {...this.props} {...this.state}/>
       </div>
     );
